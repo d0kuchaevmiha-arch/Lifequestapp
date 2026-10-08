@@ -1,0 +1,17 @@
+{
+  "name": "lifequest",
+  "version": "1.0.0",
+  "description": "Геймификация жизни: квесты, сферы развития, здоровье и прогрессия персонажа",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "watch": "vitest"
+  },
+  "devDependencies": {
+    "@electric-sql/pglite": "^0.5.8",
+    "@types/node": "^26.6.4",
+    "typescript": "^7.0.2",
+    "vitest": "^5.0.3"
+  }
+}
